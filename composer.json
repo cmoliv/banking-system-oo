@@ -8,7 +8,9 @@
             "email": "christiannmenezes@gmail.com"
         }
     ],
-    "require-dev": {},
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    },
     "autoload": {
         "psr-4": {
             "BankSystem\\App\\": "app/"
