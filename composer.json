@@ -11,7 +11,7 @@
     "require-dev": {},
     "autoload": {
         "psr-4": {
-            "BankSystem\\App\\": "src/"
+            "BankSystem\\App\\": "app/"
         }
     },
     "autoload-dev": {
