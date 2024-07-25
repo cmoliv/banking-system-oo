@@ -1,0 +1,22 @@
+{
+    "name": "chris/bank-system-oo",
+    "description": "A simple object oriented banking control system",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Christian",
+            "email": "christiannmenezes@gmail.com"
+        }
+    ],
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "BankSystem\\App\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "BankSystem\\Tests\\": "tests/"
+        }
+    }
+}
